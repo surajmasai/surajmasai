@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](👯 I’m looking to collaborate on **OpenSource Projects**)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mystifying-poitras-e570ab.netlify.app/#)**
 
 - 📫 How to reach me **sksurajkumar7090@gmail.com**
 
