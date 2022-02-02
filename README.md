@@ -19,8 +19,8 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/surajkr1999/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/surajku25327986" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a target="blank" href = "https://www.linkedin.com/in/surajkr1999/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a target="blank" href = "https://twitter.com/surajku25327986"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <!-- <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
 
